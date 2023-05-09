@@ -1,0 +1,50 @@
+[
+  {
+    "type": "apartment",
+    "description": "Glebocka",
+    "insuranceCompany": "",
+    "insuranceType": "APRT-ALL-RISKS",
+    "startTime": "2022-08-04",
+    "durationInYears": 1
+  },
+  {
+    "type": "apartment",
+    "description": "Wincentego",
+    "insuranceCompany": "INTER",
+    "insuranceType": "APRT-ALL-RISKS",
+    "startTime": "2022-10-22",
+    "durationInYears": 3
+  },
+  {
+    "type": "apartment",
+    "description": "Jaremy",
+    "insuranceCompany": "GENERALI",
+    "insuranceType": "APRT-ALL-RISKS",
+    "startTime": "2023-03-05",
+    "durationInYears": 1
+  },
+  {
+    "type": "car",
+    "description": "Hyundai",
+    "insuranceCompany": "WARTA",
+    "insuranceType": "OCAC",
+    "startTime": "2022-12-16",
+    "durationInYears": 1
+  },
+  {
+    "type": "car",
+    "description": "Mercedes-Benz",
+    "insuranceCompany": "HDI",
+    "insuranceType": "OC",
+    "startTime": "2022-12-16",
+    "durationInYears": 1
+  },
+  {
+    "type": "trailer",
+    "description": "Hobby",
+    "insuranceCompany": "WARTA",
+    "insuranceType": "OCAC",
+    "startTime": "2022-11-16",
+    "durationInYears": 1
+  }
+]
